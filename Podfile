@@ -7,7 +7,7 @@ target 'TestRealm' do
 
     pod 'RxSwift',    '~> 4.0'
     pod 'RxCocoa',    '~> 4.0'
-    pod 'RxRealm', '~>0.7.5'
+    pod 'RxRealm',    '~>0.7.5'
 
 end
 
